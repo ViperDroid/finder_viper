@@ -81,9 +81,6 @@ dont touch the code , if you wanna touching the code , after you having any erro
 
 
 
-## Requirements
-- Python 3.x
-- Dependencies (list them as shown below)
 
 ## Installation
 
